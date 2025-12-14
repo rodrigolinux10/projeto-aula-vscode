@@ -18,8 +18,7 @@ SELECT ProductKey,
     ThaiDescription,
     GermanDescription,
     JapaneseDescription,
-  
-    EndDate,
+      EndDate,
     
     [Status]
 FROM AdventureWorksDW2019.dbo.DimProduct
