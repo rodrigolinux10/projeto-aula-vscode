@@ -1,3 +1,4 @@
-select *
+select  *
+  
 
 From [dbo].[DimEmployee]
